@@ -1,0 +1,6 @@
+{
+  "dataset_url": "https://raw.githubusercontent.com/xiaomizhou616/Protein_solubility_regression_model/master/cleandata_1name.csv",
+  "target_column": null,
+  "test_size": 0.2,
+  "random_state": 42
+}

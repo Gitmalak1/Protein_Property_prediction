@@ -1,0 +1,1 @@
+numpy>=1.23\npandas>=2.0\nscikit-learn>=1.3\njoblib>=1.3\nrequests>=2.31\npytest>=7.4\n

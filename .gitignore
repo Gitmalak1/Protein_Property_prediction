@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\ndata/*.csv\n!data/.gitkeep\nmodels/*\n!models/.gitkeep\nreports/*\n!reports/.gitkeep\n.pytest_cache/\n.DS_Store\n
